@@ -19,9 +19,9 @@ cd MCF
 
   Create Python Virtual Environment
 ```bash
-python -m venv MSCISMCF
-source MSCISMCF/bin/activate  # Linux
-# or MSCISMCF\Scripts\activate  # Windows
+python -m venv MCF
+source MCF/bin/activate  # Linux
+# or MCF\Scripts\activate  # Windows
 ```
 
   Install Dependencies
