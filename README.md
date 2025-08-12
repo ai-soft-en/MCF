@@ -13,8 +13,8 @@ Implementation of paper - Review stage
 
   Clone Repository
 ```bash
-git clone https://github.com/ai-soft-en/MSCISMCF.git
-cd MSCISMCF
+git clone https://github.com/ai-soft-en/MCF.git
+cd MCF
 ```
 
   Create Python Virtual Environment
