@@ -1,4 +1,4 @@
-# Multi-Sensor Collaborative Intelligence-Supported Meta Computing Framework for Intelligent Feeding in Industrial Aquaculture Systems
+# Multi-sensor Visual Cognition Framework-supported Intelligent Feeding Approach for Industrial Aquaculture
 
 Implementation of paper - Review stage
 
